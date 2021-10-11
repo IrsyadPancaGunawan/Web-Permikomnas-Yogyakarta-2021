@@ -1,0 +1,9 @@
+Daftar style inline :
+1. Div dengan class "container" setiap section (Khusus nilai artikel pt = 200px)
+
+#header,
+#aboutUs {
+  padding-top: 90px;
+}
+
+
